@@ -1,6 +1,6 @@
 # SAP Cloud Platform Integration (CPI)
 
-[![SAP](https://i.imgur.com/CkoHgRF.png)](http://cloudplatform.sap.com/)
+[![SAP](https://i.imgur.com/n2JeuFT.png)](https://help.sap.com/viewer/product/CLOUD_INTEGRATION/Cloud/en-US)
 
 This building block provides links to SAP Cloud Platform Integration documentation and usefull samples that will help you understand and get your hands easily into CPI.
 
@@ -29,6 +29,10 @@ Dive into the details with our SAP Cloud Platform Integration help documentation
 Learn more from our community of SAP Cloud Platform Integration experts
 
 - [Get Started with Integration Flow Development](https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/e5724cd84b854719973afe0356ea128b.html)
+
+- [Learning Journey](https://help.sap.com/doc/221f8f84afef43d29ad37ef2af0c4adf/HP_2.0/en-US/f4a390d6ee7147aa89ba587102702677.html)
+
+- [openSAP course - Simplify Integration with SAP Cloud Platform Integration Suite] (https://open.sap.com/courses/cp9)
 
 ## Author
 * [MARTINEZ GEA, Maria Trinidad](https://github.com/TrinidadMG)
