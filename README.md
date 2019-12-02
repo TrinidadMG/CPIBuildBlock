@@ -21,6 +21,9 @@ Follow the documents and samples provided in each one of the option's folders.
 Import ByD OData from ByD building block!
 
 ## References
+### How to Set Up Your Trial SAP Cloud Platform Integration Tenant
+[Set Up Your SAP Cloud Platform Integration Tenant](https://developers.sap.com/tutorials/cp-starter-integration-cpi-onboard-subscribe.html#) in your SAP Cloud Platform trial account.
+
 ### Documentation
 - [SAP Cloud Platform Integration Help Portal](https://help.sap.com/viewer/product/CLOUD_INTEGRATION/Cloud/en-US)
 Dive into the details with our SAP Cloud Platform Integration help documentation
