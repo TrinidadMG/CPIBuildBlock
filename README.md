@@ -15,7 +15,7 @@ Follow the documents and samples provided in each one of the option's folders.
 
 ## Samples
 - [HandsOn guided exercise](https://)
-- [Option B: Bring Your Own Device](https://) 
+- [B1 & ByD integration packages examples](https://) 
 
 ### Requirements
 Import ByD OData from ByD building block!
