@@ -14,14 +14,14 @@ Allows to harmonize applications and data reliably and securely by using the pro
 Follow the documents and samples provided in each one of the option's folders. 
 
 ## Samples
-- [Option A: Preconfigured Device](https://github.com/TrinidadMG/IoTBuildBlock/tree/master/A.%20Preconfigured%20Device)
-- [Option B: Bring Your Own Device](https://github.com/TrinidadMG/IoTBuildBlock/tree/master/B.%20Bring%20Your%20Own%20Device) 
+- [HandsOn guided exercise](https://)
+- [Option B: Bring Your Own Device](https://) 
 
-- [Developer’s Corner](https://blogs.sap.com/2017/07/17/introduction-to-developers-corner/)
-Want to know about the latest and greatest product updates and features enhancements of SAP Cloud Platform Integration? Then, the developer’s corner is your one stop shop!
+### Requirements
+Import ByD OData from ByD building block!
 
 ## References
-### Official Documentation
+### Documentation
 - [SAP Cloud Platform Integration Help Portal](https://help.sap.com/viewer/product/CLOUD_INTEGRATION/Cloud/en-US)
 Dive into the details with our SAP Cloud Platform Integration help documentation
 
@@ -30,6 +30,10 @@ Learn more from our community of SAP Cloud Platform Integration experts
 
 - [Get Started with Integration Flow Development](https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/e5724cd84b854719973afe0356ea128b.html)
 
+- [Developer’s Corner](https://blogs.sap.com/2017/07/17/introduction-to-developers-corner/)
+Want to know about the latest and greatest product updates and features enhancements of SAP Cloud Platform Integration? Then, the developer’s corner is your one stop shop!
+
+### eLearning
 - [Learning Journey](https://help.sap.com/doc/221f8f84afef43d29ad37ef2af0c4adf/HP_2.0/en-US/f4a390d6ee7147aa89ba587102702677.html)
 
 - [openSAP course - Simplify Integration with SAP Cloud Platform Integration Suite] (https://open.sap.com/courses/cp9)
