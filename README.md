@@ -36,7 +36,7 @@ Want to know about the latest and greatest product updates and features enhancem
 ### eLearning
 - [Learning Journey](https://help.sap.com/doc/221f8f84afef43d29ad37ef2af0c4adf/HP_2.0/en-US/f4a390d6ee7147aa89ba587102702677.html)
 
-- [openSAP course - Simplify Integration with SAP Cloud Platform Integration Suite] (https://open.sap.com/courses/cp9)
+- [openSAP course - Simplify Integration with SAP Cloud Platform Integration Suite](https://open.sap.com/courses/cp9)
 
 ## Author
 * [MARTINEZ GEA, Maria Trinidad](https://github.com/TrinidadMG)
