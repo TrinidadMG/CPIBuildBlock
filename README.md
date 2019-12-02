@@ -4,12 +4,10 @@
 
 This building block provides links to SAP Cloud Platform Integration documentation and usefull samples that will help you understand and get your hands easily into CPI.
 
+## Overview
 SAP Cloud Platform Integration (CPI) connects cloud apps with other SAP and third-party apps in cloud and on-premise. 
 It is a service of SAP Cloud Platform Integration Suite that connects processes and data for diverse scenarios including application-to-application, business-to-business and business-to-government. 
 Allows to harmonize applications and data reliably and securely by using the productized integration content included with this service.
-
-## Overview
-
 
 
 ## Usage  
