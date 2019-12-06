@@ -14,7 +14,7 @@ Allows to harmonize applications and data reliably and securely by using the pro
 Follow the documents and samples provided in each one of the option's folders. 
 
 ## Samples
-- [HandsOn guided exercise](https://)
+- [HandsOn guided exercise](https://github.com/TrinidadMG/CPIBuildBlock/blob/master/HandsOn_CPI_ByD_B1.pdf)
 - [B1 & ByD integration packages examples](https://) 
 
 ### Requirements
