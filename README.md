@@ -31,6 +31,8 @@ Dive into the details with our SAP Cloud Platform Integration help documentation
 - [SAP Cloud Platform Integration Community](https://www.sap.com/community/topics/cloud-integration.html)
 Learn more from our community of SAP Cloud Platform Integration experts
 
+- [Get Started with SAP Cloud Platform Integration](https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/2fb0aa4dc5194b589adcd1c5534901e3.html)
+
 - [Get Started with Integration Flow Development](https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/e5724cd84b854719973afe0356ea128b.html)
 
 - [Developer’s Corner](https://blogs.sap.com/2017/07/17/introduction-to-developers-corner/)
@@ -40,6 +42,8 @@ Want to know about the latest and greatest product updates and features enhancem
 - [Learning Journey](https://help.sap.com/doc/221f8f84afef43d29ad37ef2af0c4adf/HP_2.0/en-US/f4a390d6ee7147aa89ba587102702677.html)
 
 - [openSAP course - Simplify Integration with SAP Cloud Platform Integration Suite](https://open.sap.com/courses/cp9)
+
+- [Integration – The Key to the Intelligent Enterprise](https://open.sap.com/courses/int1/resume)
 
 ## Author
 * [MARTINEZ GEA, Maria Trinidad](https://github.com/TrinidadMG)
