@@ -17,9 +17,6 @@ Follow the documents and samples provided in each one of the option's folders.
 - [HandsOn guided exercise](https://github.com/TrinidadMG/CPIBuildBlock/blob/master/HandsOn_CPI_ByD_B1.pdf)
 - [B1 & ByD integration packages examples](https://) 
 
-### Requirements
-Import ByD OData from ByD building block!
-
 ## References
 ### How to Set Up Your Trial SAP Cloud Platform Integration Tenant
 [Set Up Your SAP Cloud Platform Integration Tenant](https://developers.sap.com/tutorials/cp-starter-integration-cpi-onboard-subscribe.html#) in your SAP Cloud Platform trial account.
