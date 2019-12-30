@@ -28,7 +28,7 @@ Dive into the details with our SAP Cloud Platform Integration help documentation
 - [SAP Cloud Platform Integration Community](https://community.sap.com/topics/cloud-platform-integration)
 Learn more from our community of SAP Cloud Platform Integration experts
 
-- [Get Started with SAP Cloud Platform Integration](https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/2fb0aa4dc5194b589adcd1c5534901e3.html)
+- [Get Started with SAP Cloud Platform Integration](https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/302b47b11e1749c3aa9478f4123fc216.html)
 
 - [Get Started with Integration Flow Development](https://help.sap.com/viewer/368c481cd6954bdfa5d0435479fd4eaf/Cloud/en-US/e5724cd84b854719973afe0356ea128b.html)
 
