@@ -43,7 +43,7 @@ Want to know about the latest and greatest product updates and features enhancem
 
 - [openSAP course - Simplify Integration with SAP Cloud Platform Integration Suite](https://open.sap.com/courses/cp9)
 
-- [Integration – The Key to the Intelligent Enterprise](https://open.sap.com/courses/int1/resume)
+- [Integration – The Key to the Intelligent Enterprise](https://open.sap.com/courses/int1)
 
 ## Author
 * [MARTINEZ GEA, Maria Trinidad](https://github.com/TrinidadMG)
