@@ -14,8 +14,16 @@ Allows to harmonize applications and data reliably and securely by using the pro
 Follow the documents and samples provided in each one of the option's folders. 
 
 ## Samples
-- [HandsOn guided exercise](https://github.com/TrinidadMG/CPIBuildBlock/blob/master/HandsOn_CPI_ByD_B1.pdf)
-- [B1 & ByD integration packages examples](https://) 
+- [HandsOn guided exercise](https://github.com/TrinidadMG/CPIBuildBlock/blob/master/HandsOn_CPI_ByD_B1.pdf) - 
+Guided set of step by step exercises building a package containing 5 artifacts:
+  - SmokeTestScenario
+  - GetB1SalesOrder
+  - CreateB1SalesOrder
+  - GetByDSalesOrder
+  - CreateByDSales
+  
+- [Sample package](https://github.com/TrinidadMG/CPIBuildBlock/blob/master/CPI_exercises.zip) - 
+CPI package including the artifacts explained in the HandsOn guided exercise document.
 
 ## References
 ### How to Set Up Your Trial SAP Cloud Platform Integration Tenant
