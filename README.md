@@ -29,6 +29,9 @@ CPI package including the artifacts explained in the HandsOn guided exercise doc
 ### How to Set Up Your Trial SAP Cloud Platform Integration Tenant
 [Set Up Your SAP Cloud Platform Integration Tenant](https://developers.sap.com/tutorials/cp-starter-integration-cpi-onboard-subscribe.html#) in your SAP Cloud Platform trial account.
 
+### Overview
+- [Key capabilities and scenarios of SAP Cloud Platform Integration Suite](https://www.sap.com/products/cloud-platform/capabilities/integration.html)
+
 ### Documentation
 - [SAP Cloud Platform Integration Help Portal](https://help.sap.com/viewer/product/CLOUD_INTEGRATION/Cloud/en-US)
 Dive into the details with our SAP Cloud Platform Integration help documentation
@@ -48,7 +51,7 @@ Want to know about the latest and greatest product updates and features enhancem
 
 - [openSAP course - Simplify Integration with SAP Cloud Platform Integration Suite](https://open.sap.com/courses/cp9)
 
-- [Integration – The Key to the Intelligent Enterprise](https://open.sap.com/courses/int1)
+- [SAP Cloud Platform Integration Youtube academy](https://www.youtube.com/playlist?list=PLkzo92owKnVwUoypV34RbxBZihYqi6eE3)
 
 ## Author
 * [MARTINEZ GEA, Maria Trinidad](https://github.com/TrinidadMG)
